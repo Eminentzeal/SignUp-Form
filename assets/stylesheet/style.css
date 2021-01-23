@@ -31,12 +31,14 @@ body {
   margin-bottom: 15%;
 }
 
-.fab-btn, .fas-btn {
+.btn {
   text-align: left;
+  font-size: 2rem;
+  font-weight: 600;
   color: #fff;
   width: 90%;
   text-transform: uppercase;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .fab, .fas {
@@ -45,9 +47,10 @@ body {
 
 .fab-btn {
   background: #48608f;
-  margin-bottom: rem;
+  padding: 2rem 0rem 2rem 5rem
 }
 
 .fas-btn {
   background: #5cac04;
+  padding: 2rem 0rem 2rem 5rem
 }
