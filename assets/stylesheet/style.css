@@ -32,11 +32,11 @@ body {
 }
 
 .btn {
-  text-align: left;
+  /* text-align: left; */
   font-size: 2rem;
   font-weight: 600;
   color: #fff;
-  width: 90%;
+  width: 100%;
   text-transform: uppercase;
   margin-bottom: 2rem;
 }
@@ -47,10 +47,10 @@ body {
 
 .fab-btn {
   background: #48608f;
-  padding: 2rem 0rem 2rem 3rem
+  padding: 2rem;
 }
 
 .fas-btn {
   background: #5cac04;
-  padding: 2rem 0rem 2rem 3rem
+  padding: 2rem;
 }
