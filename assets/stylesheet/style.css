@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+.images {
+  width: 20%;
+  display: block;
+  margin: 20% auto;
+  text-align: center;
+}
+
