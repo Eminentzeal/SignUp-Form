@@ -2,6 +2,10 @@ body {
   text-align: center;
 }
 
+.container {
+  position: relative;
+}
+
 .images {
   width: 20%;
   display: block;
@@ -9,3 +13,15 @@ body {
   text-align: center;
 }
 
+.hero {
+  font-weight: 700;
+}
+
+.line {
+  border-bottom: 10px solid #5cac04
+  ;
+  border-radius: 5px;
+  width: 7rem;
+  margin: 15% auto;
+
+}
