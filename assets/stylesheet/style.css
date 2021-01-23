@@ -32,9 +32,8 @@ body {
 }
 
 .btn {
-  /* text-align: left; */
-  font-size: 2rem;
-  font-weight: 600;
+  font-size: 1.7rem;
+  font-weight: 500;
   color: #fff;
   width: 100%;
   text-transform: uppercase;
